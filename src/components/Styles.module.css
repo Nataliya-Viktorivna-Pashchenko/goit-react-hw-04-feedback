@@ -1,0 +1,8 @@
+.stylesBtn {
+    border-radius: 5px;
+    background: transparent;
+    margin-right: 5px;
+}
+.stylesBtn:hover {
+    background-color: #bcbcf0;
+}
